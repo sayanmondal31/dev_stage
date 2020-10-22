@@ -39,7 +39,7 @@ first you have to create an empty local repository where all your all your files
 *Example : for my case*
 *git remote add origin https://github.com/sayanmondal31/test.git*
 
-5. `git push -u origin master`  ->🌐
+5. `git push -u origin main`  ->🌐
 
 **After setting the url where you want to store,push your local repo with this command.**
 
